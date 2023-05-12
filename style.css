@@ -1,0 +1,322 @@
+
+.center {
+    text-align: center
+  }
+  
+  .bordas{
+    text-align: center
+  }
+  
+  #sjr {
+    border-radius: 50%;
+  }
+  
+  #sjr{
+    position: center;
+  }
+  
+  .bordas {
+    border-top-width:1px;
+    border-top-color: purple;
+    border-top-style: dashed;
+    border-right-width:1px;
+    border-right-color: purple;
+    border-right-style: dashed;
+    border-left-width:1px;
+    border-left-color: purple;
+    border-left-style: dashed;
+    border-bottom-width:1px;
+    border-bottom-color: purple;
+    border-bottom-style: dashed;
+  }
+  
+  #sjr {
+      border-radius: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  #vdo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+  }
+  
+  input[type=button] {
+    width: 100%;
+    background-color: #4d0b0b
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=button]:hover {
+    background-color: #2E2E2E;
+  }
+  
+  input[type=text], input[type=email], input[type=url], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  div#menua {
+      background-color: green;
+    padding: 0px 0px;
+  }
+  
+  div#menua ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  div#menua li {
+    float: left;
+  }
+  
+  div#menua li a, .crusinho {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  div#menua li a:hover, .crua:hover .crusinho {
+    background-color: #b20101;
+  }
+  
+  div#menua li.crua {
+    display: inline-block;
+  }
+  
+  div#menua .crusinha {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  div#menua .crusinha a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  div#menua .crusinha a:hover {background-color: #f1f1f1;}
+  
+  div#menua .crua:hover .crusinha {
+    display: block;
+  }
+  
+  div#menua li#maisobre {
+      float:right
+  }
+  
+  .armario {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    background-color: #ffffff;
+  }
+  
+  .blusa {
+    padding: 0px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  
+  figure img {
+      vertical-align: top;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  .center {
+    text-align: center
+  }
+  
+  .bordas{
+    text-align: center
+  }
+  
+  #sjr {
+    border-radius: 50%;
+  }
+  
+  #sjr{
+    position: center;
+  }
+  
+  .bordas {
+    border-top-width:1px;
+    border-top-color: purple;
+    border-top-style: dashed;
+    border-right-width:1px;
+    border-right-color: purple;
+    border-right-style: dashed;
+    border-left-width:1px;
+    border-left-color: purple;
+    border-left-style: dashed;
+    border-bottom-width:1px;
+    border-bottom-color: purple;
+    border-bottom-style: dashed;
+  }
+  
+  #sjr {
+      border-radius: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  #vdo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+  }
+  
+  input[type=button] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=button]:hover {
+    background-color: #266929;
+  }
+  
+  input[type=text], input[type=email], input[type=url], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  div#menua {
+      background-color: green;
+    padding: 0px 0px;
+  }
+  
+  div#menua ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  div#menua li {
+    float: left;
+  }
+  
+  div#menua li a, .crusinho {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  div#menua li a:hover, .crua:hover .crusinho {
+    background-color: #b20101;
+  }
+  
+  div#menua li.crua {
+    display: inline-block;
+  }
+  
+  div#menua .crusinha {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  div#menua .crusinha a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  div#menua .crusinha a:hover {background-color: #f1f1f1;}
+  
+  div#menua .crua:hover .crusinha {
+    display: block;
+  }
+  
+  div#menua li#maisobre {
+      float:right
+  }
+  
+  .armario {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    background-color: #ffffff;
+  }
+  
+  .blusa {
+    padding: 0px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  
+  figure img {
+      vertical-align: top;
+  }
+  
+  
+  
+    .biscoito {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    background-color: #ffffff;
+  }
+  
+  .bolacha {
+    padding: 0px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  
